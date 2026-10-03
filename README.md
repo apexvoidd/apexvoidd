@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ayush
 
-<!--
-**apexvoidd/apexvoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`student` · `developer` · `curious about how things work`
 
-Here are some ideas to get you started:
+I build things, break things, and occasionally figure out why they broke.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **web development, AI, and cybersecurity**.
+
+```text
+┌─────────────────────────────────┐
+│  building > learning > breaking │
+│  learning > fixing > repeating  │
+└─────────────────────────────────┘
+```
+
+### Stack
+
+`Python` `TypeScript` `JavaScript` `Next.js` `React`
+`FastAPI` `Flask` `PostgreSQL` `Git`
+
+### Some things I've built
+
+**ResMan OS**
+Restaurant management platform built with Next.js, FastAPI and PostgreSQL.
+
+**Sylvis**
+A personal AI assistant exploring local AI and voice interaction.
+
+### Currently learning
+
+```text
+AI / LLMs
+Cybersecurity
+Full-stack development
+```
+
+<p align="center">
+  <sub>still figuring things out.</sub>
+</p>
